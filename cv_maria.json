@@ -48,12 +48,23 @@
       "studyType": "Bachelor",
       "startDate": " ",
       "endDate": "10/08/2017"
+    },
+    {
+      "institution": "Universidad de Antioquia",
+      "url": "https://www.udea.edu.co/",
+      "area": "MSc Matemática",
+      "studyType": "MSc",
+      "startDate": " ",
+      "endDate": "02/02/2024"
     }
   ],
   "certificates": [],
   "skills": [
     {
       "name": "Python"
+    },
+    {
+      "name": "AWS"
     },
     {
       "name": "Java"
@@ -63,6 +74,18 @@
     },
     {
       "name": "SQL"
+    },
+    {
+      "name": "Power BI"
+    },
+    {
+      "name": "PySpark"
+    },
+    {
+      "name": "Data Analysis"
+    },
+    {
+      "name": "Machine learning"
     },
     {
       "name": "TypeScript"
@@ -78,6 +101,12 @@
     },
     {
       "name": "GitHub"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Unit Testing"
     }
   ],
   "languages": [
