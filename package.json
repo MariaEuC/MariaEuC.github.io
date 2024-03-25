@@ -15,10 +15,6 @@
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3"
   },
-  "packageManager": {
-    "name": "pnpm",
-    "version": "6.14.7"
-  },
   "description": "<div align=\"center\">\r <img src=\"logo.png\" height=\"90px\" width=\"auto\" /> \r <h2>\r     <em>Résumé</em> minimalista maquetado para web y pdf\r </h2>\r <p>\r Esquema del JSON de CV de <a href=\"https://jsonresume.org/schema/\">jsonresume.org</a>\r </p>",
   "main": "index.js",
   "author": "",
