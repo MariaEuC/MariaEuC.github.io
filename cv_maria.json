@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "María Eugenia Castaño Herrera",
+    "label": "",
+    "image": " ",
+    "email": "castanoh.mariae@gmail.com",
+    "phone": "+57 3127628491",
+    "url": " ",
+    "summary": "Soy una matemática con +5 años de experiencia docente, he dictado diferentes cursos universitarios como álgebra y trigonometría, cálculo diferencial, razonamiento lógico, matemáticas básicas, entre otros. Me gustan los retos y resolver problemas, lo que me ha ayudado a interesarme mucho por la programación y la ciencia de datos.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Itagüí",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mariaecastanoh",
+        "url": "https://www.linkedin.com/in/mariaecastanoh/"
+      },
+      {
+        "network": "GitHub",
+        "username": "MariaEuC",
+        "url": "https://github.com/MariaEuC"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Docente",
+      "position": "",
+      "url": "",
+      "startDate": "02/02/2018",
+      "endDate": null,
+      "summary": "Docente universitaria de cursos de matemáticas, de álgebra y trigonometría, cálculo diferencial, razonamiento lógico.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Antioquia",
+      "url": "https://www.udea.edu.co/",
+      "area": "Matemática",
+      "studyType": "Bachelor",
+      "startDate": " ",
+      "endDate": "10/08/2017"
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Oracle Cloud"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
