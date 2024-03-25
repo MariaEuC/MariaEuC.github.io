@@ -1,9 +1,8 @@
 
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
 <h2>
-    <em>Résumé</em> minimalista maquetado para web y pdf
+    CV y Portafolio <em></em> 
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
@@ -47,8 +46,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 ![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
 
 </div>
-
-<img src="portada.png"></img>
 
 ## 🛠️ Stack
 
@@ -98,7 +95,7 @@ pnpm dev
 
 ## 🔑 Licencia
 
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
+[MIT](LICENSE.txt) - Basado en la web de [**midudev**](https://midu.dev).
 
 
 
